@@ -1,0 +1,1 @@
+# 60.python-program-to-cheak-wether-the-given-integer-is-a-multi-ple-of-both-5-and-7
